@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals = 3; plural = (n % 10 == 1 && n % 100 != 11 ? 0 : n "
+"% 10 >= 2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20) ? 1 : 2);\n"
+"Language: uk\n"
+"mime-version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src\App.tsx:15
+msgid "Switch lang"
+msgstr "Переключи язык"
+
+#: src\App.tsx:31
+#, javascript-format
+msgid "Edit ${ appLink } and save to reload."
+msgstr "Редактируй ${ appLink }, сохраняй и перезагружай."
+
+#: src\App.tsx:39
+msgid "Learn React"
+msgstr "Изучай React"
+
+#: src\App.tsx:47
+msgid "Learn ttag"
+msgstr "Изучай ttag"
